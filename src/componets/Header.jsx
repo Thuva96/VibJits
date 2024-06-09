@@ -12,7 +12,7 @@ const Header = (params) => {
                 <MdArrowDropDown size={"1.5em"} className=" cursor-pointer"/>
             </div>
             <div className=" h-full flex justify-center items-center ">
-                <Avatar className=" cursor-pointer" alt="imageofUser" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOKMwJV8RHldEpP0R4VVxvlUPNxK-b38X5_qVOJkO_bc3YDUDazRB1swFDQ&s"/>
+                <Avatar className=" cursor-pointer" alt="imageofUser" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOCzaEM17rj4LhXRx3nOezr76b-3BZ_WN_A&s"/>
             </div>
         </div>
         <div className=" flex w-full font-extrabold text-2xl gap-x-2 items-center">

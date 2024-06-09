@@ -10,12 +10,10 @@ const SearchCard = (params) => {
             <section className="text-xl text-[#001eb9]">{Sku}</section>
             <section className="text-xl font-bold text-[#162427]">{name}</section>
             <section className=" text-lg line-clamp-1 text-[#162427] opacity-60">{description}</section>
-
         </div>
         <div className=" flex justify-center items-center px-16 cursor-pointer hover:bg-[#001eb9] hover:rounded-md hover:bg-opacity-20 ">
            <MdArrowForwardIos color="#001eb9" size={"2rem"}/>
         </div>
-
     </div>
   )
 }
